@@ -1,7 +1,6 @@
 # Manifesto
-Read this first, a description of what this organization is about.
 
-This github organization is to provide public repositories of documentation and code create by the Tezos Community.
+This github organization provides public repositories of documentation and code created by the Tezos Community.
 
 It is a grassroots effort not endorsed by any particular authority in the Tezos world.
 
